@@ -1,3 +1,3 @@
 # kotland-work
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/ujangsprr/kotland-work/blob/master/images/screenshoot.png)
